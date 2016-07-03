@@ -1,0 +1,20 @@
+#container {
+	background-color: black;
+	width: 900px;
+}
+
+#h1 {
+	color: brightwhite ;
+}
+
+#p {
+	color: white;
+}
+
+#container .dog_pic {
+	display: inline-block;
+	height: 400px;
+	width: 400px;
+	border-style: solid white;
+	
+}
